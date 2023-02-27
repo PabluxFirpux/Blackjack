@@ -23,7 +23,7 @@
     <dependencies>
         <dependency>
             <groupId>io.pablo.gaming.cardgames</groupId>
-            <artifactId>DeckProject</artifactId>
+            <artifactId>deckLibrary</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>
